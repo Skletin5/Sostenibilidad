@@ -9,6 +9,9 @@
 - 1.6.- Evaluación del desempeño en sostenibilidad de las empresas.
 ## Conclusiones
 Mapa conceptual (Herramientas utilizada)
+
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
+
 [Referencias](/referencias.md)
+
 Autores
